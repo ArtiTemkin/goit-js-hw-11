@@ -77,7 +77,7 @@
 83C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\abortcontroller-polyfill133187185613839942 1
 90C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\RU.js133164636834290436 0
 82C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\csso\lib\replace\atrule133187185897445908 1
-50C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist133195804858830792 1
+50C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist133195885989771769 1
 49C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\src133194948281535846 1
 90C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\ST.js133164636835709553 0
 102C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\runtime-service-worker\package.json133164636444233569 0
@@ -96,7 +96,7 @@
 76C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\@msgpackr-extract133194949543313918 1
 75C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\type-fest\source133187186225873580 1
 81C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\yaml\browser\scalar.js133164636560759000 0
-58C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\package.json133195806767508261 0
+58C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\package.json133195867301329714 0
 68C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\js-tokens133187185991607916 1
 65C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\@babel133187185240231828 1
 73C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\domelementtype133187185911505949 1
@@ -147,7 +147,7 @@
 94C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\csso\lib\replace\property\border.js133164636506422191 0
 88C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\workers\src\Worker.js133164636603353645 0
 77C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\timsort\.npmignore133164636387007019 0
-60C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\src\index.html133195801831907833 0
+60C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\src\index.html133195859099981471 0
 93C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\sass\types\legacy\plugin_this.d.ts133164636716151608 0
 78C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\term-size\readme.md133164636429044758 0
 109C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\private-class-fields.js133164636833570886 0
@@ -233,7 +233,7 @@
 79C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\yaml\types\binary.js133164636392014008 0
 65C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\src\images\logo.png133138636371002394 0
 102C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\@nodelib\fs.scandir\out\providers\sync.d.ts133164636554371578 0
-64C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\src\css\styles.css133195797673699855 0
+64C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\src\css\styles.css133195886527503900 0
 67C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\chokidar133187185826359087 1
 93C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133164636751841950 0
 86C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\terser\lib\equivalent-to.js133164636576060912 0
@@ -525,7 +525,7 @@
 117C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\pixabay-api\node_modules\axios\lib\helpers\parseHeaders.js133192377572376804 0
 122C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\package.json133164636541270308 0
 83C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\xxhash-wasm\package.json133164636395663902 0
-77C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\simplelightbox\src133194948728241550 1
+77C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\simplelightbox\src133194948728311977 1
 97C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\css-tree\lib\syntax\node\IdSelector.js133164636671034426 0
 66C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\is-json133187185988639242 1
 96C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\history.js133164636823145737 0
@@ -1700,7 +1700,7 @@
 123C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.d.ts133164636510403821 0
 110C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\link-rel-dns-prefetch.js133164636830486961 0
 81C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\reusify\.coveralls.yml133164636393003364 0
-69C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.eee7cb62.css133195800651599706 0
+69C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.eee7cb62.css133195859851741264 0
 135C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node133164636728059655 0
 94C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\package-manager\src\Yarn.js133164636585729186 0
 98C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\packager-css\lib\CSSPackager.js133164636438413741 0
@@ -2027,7 +2027,7 @@
 87C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\commander\typings\index.d.ts133164636479515802 0
 78C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\picocolors\types.ts133164636416604646 0
 91C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\source-map\dist\types.js133164636518434571 0
-69C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.77a9bc14.css133195800654298325 0
+69C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.77a9bc14.css133195885989661846 0
 98C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\core\src\ParcelConfig.schema.js133164636729656889 0
 79C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\path-type\index.d.ts133164636394845139 0
 93C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\calc.js133164636708863035 0
@@ -2823,7 +2823,7 @@
 78C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\get-port\index.d.ts133164636400582602 0
 83C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\follow-redirects\LICENSE133187198165210665 0
 94C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\@swc\helpers\lib\_inherits_loose.js133164636603353645 0
-68C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.975ef6c8.js133195804858781687 0
+68C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.975ef6c8.js133195859853042860 0
 72C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\form-data\lib133187198180076909 1
 85C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\form-data\lib\form_data.js133187198180016940 0
 83C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\follow-redirects\http.js133187198165365577 0
@@ -2855,7 +2855,7 @@
 106C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-logical-props.js133164636755656100 0
 80C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\fastq\test\promise.js133164636411768814 0
 83C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\fastq\test\tsconfig.json133164636441120420 0
-72C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.975ef6c8.js.map133195804858810776 0
+72C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.975ef6c8.js.map133195859853090282 0
 89C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\fastq\.github\workflows\ci.yml133164636491662106 0
 108C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133164636741829251 0
 76C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\fast-glob\LICENSE133164636396923117 0
@@ -3431,7 +3431,7 @@
 90C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\GW.js133164636815937134 0
 105C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\web-app-manifest.js133164636838411899 0
 90C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\HK.js133164636823165745 0
-73C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.77a9bc14.css.map133195800655214245 0
+73C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.77a9bc14.css.map133195885989711813 0
 90C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\HN.js133164636823175740 0
 90C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\HU.js133164636823335637 0
 76C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\boolbase\index.js133164636410821079 0
@@ -5054,8 +5054,8 @@
 72C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\.bin\svgo.cmd133164636840764718 0
 72C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\.bin\svgo.ps1133164636840764718 0
 74C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\node_modules\.bin\terser.cmd133164636840764718 0
-73C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.eee7cb62.css.map133195800651609695 0
-61C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.html133195801835183593 0
+73C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.eee7cb62.css.map133195859851751265 0
+61C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\dist\index.html133195885989751785 0
 69C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\assets\how-it-works.png133138636370892443 0
 70C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\assets\repo-settings.png133138636370932437 0
 63C:\Users\z1mba\Documents\GitHub\goit-js-hw-11\assets\status.png133138636370952424 0
